@@ -1,0 +1,7 @@
+build/
+release/
+
+# CLion generated folders
+.idea
+cmake-build-debug
+cmake-build-release
